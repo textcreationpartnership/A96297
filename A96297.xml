@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Scottish armie concerning their immediate marching towards the borders of England; as also their reasons of their comming, together with their resolution touching the same. Likewise the number of their army, both horse and foot, and their advance, with this motto in their ensignes, For religion, crown, and kingdome. Whereunto is annexed, the resolution of the northern counties, concerning the Scottish army, and their present proceedings therein.</title>
+            <author>Wheatly, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96297</idno>
+            <idno type="STC">Wing W1597</idno>
+            <idno type="STC">Thomason E406_22</idno>
+            <idno type="STC">ESTC R201927</idno>
+            <idno type="EEBO-CITATION">99862409</idno>
+            <idno type="PROQUEST">99862409</idno>
+            <idno type="VID">160498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160498)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Scottish armie concerning their immediate marching towards the borders of England; as also their reasons of their comming, together with their resolution touching the same. Likewise the number of their army, both horse and foot, and their advance, with this motto in their ensignes, For religion, crown, and kingdome. Whereunto is annexed, the resolution of the northern counties, concerning the Scottish army, and their present proceedings therein.</title>
+                  <author>Wheatly, W.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.V. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCXL VII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters by W. Wheatly, and a third, unsigned, from Newcastle.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160498:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> DECLARATION OF THE SCOTTISH ARMIE <hi>CONCERNING</hi> Their immediate marching towards the Bor<g ref="char:EOLhyphen"/>ders of <hi>England;</hi> As alſo the Reaſons of their com<g ref="char:EOLhyphen"/>ming, together with their Reſolution touch<g ref="char:EOLhyphen"/>ing the ſame.</p>
+            <p>
+               <hi>LIKEWISE</hi> The number of their Army, both Horſe and Foot, and their advance, with this Motto in their Enſignes, <hi>For Religion, Crown, and Kingdome.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is annexed,</hi> The Reſolution of the Northern Counties, concerning the Scottiſh Army; and their preſent procee<g ref="char:EOLhyphen"/>dings therein.</p>
+            <p>
+               <add> 7<hi rend="sup">ber</hi> 13</add> 
+               <hi>LONDON:</hi> Printed for R. V. and are to be ſold at the Royall Exchange in <hi>Cornhill, MDCXLVII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160498:2"/>
+            <pb facs="tcp:160498:2"/>
+            <head>A DECLARATION Of the Scottiſh ARMIE <hi>CONCERNING</hi> Their marching towards the North of Eng<g ref="char:EOLhyphen"/>land, under command of Lieut. General <hi>David Leſley.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Scottiſh Army (under command of Lieutenant Generall <hi>David Leſley</hi>) are returned from the North of <hi>Scotland,</hi> and are now upon the Borders of <hi>England,</hi> where
+<pb facs="tcp:160498:3"/>He hath quartered them for the preſent, but at no great diſtance, although many in num<g ref="char:EOLhyphen"/>ber, and an army of a great Body; divers re<g ref="char:EOLhyphen"/>ports are ecchoed in theſe parts, but that of that of the greateſt credence, is, <hi>their reſoluti<g ref="char:EOLhyphen"/>on to ſtand firme to the treaty and covenant be<g ref="char:EOLhyphen"/>twixt the two Kingdomes,</hi> the army (as we hear) doth conſiſt of about twelve thouſand horſe and foot, moſt of them well armed, the Foot having this Motto in their Enſigne, <hi>For Re<g ref="char:EOLhyphen"/>ligion, Crown, and Kingdome,</hi> and ſome with the Bible.</p>
+            <p>What their intentions are, wee cannot as yet diſcover, but they pretend fair, and have declared as followeth:</p>
+            <p>
+               <hi>That their preſent motion and advance toward the Borders of England, is for the better accom<g ref="char:EOLhyphen"/>madation of the Souldiery, and to take up their Winter quarters for the refreſhment of that Ar<g ref="char:EOLhyphen"/>my, which hath of late undergone, and perfected ſo great a worke, in reducing of the Kilkettonians, and ſub duing the potent Enemy of that Kingdom, having for many yeares been continually in actu<g ref="char:EOLhyphen"/>all ſervice in the Field.</hi>
+            </p>
+            <p>
+               <hi>And they do further declare, that they have no
+<pb facs="tcp:160498:3"/>deſigne againſt the Kingdom of England, as hath bin ſuggeſted by many, neither have they any de<g ref="char:EOLhyphen"/>ſire to invade this Kingdome, or croſse the River Tweed, as hath been reported by ſome of the Bor<g ref="char:EOLhyphen"/>derers of this Nation. Further declaring, that they have been, and ſhall be ever ready to joyne with their Brethren of England, in all things that may tend to the preſervation of the ſolemn League and Covenant, and the peace and proſperity of both Kingdomes, &amp;c.</hi>
+            </p>
+            <p>Divens of the Scottiſh Horſe quarters ve<g ref="char:EOLhyphen"/>rg neer us, the Lord <hi>Coopers</hi> Regiment not far of, Colonel <hi>Hambleton,</hi> and the Jockies dear <hi>Valentine,</hi> are alſo with their Regiments about the Shire of <hi>Douglaſdale,</hi> the Lord <hi>Sinckler</hi> is ſaid to have a gallant &amp; full Regi<g ref="char:EOLhyphen"/>ment in the County of <hi>Anaudale,</hi> divers o<g ref="char:EOLhyphen"/>ther Colonels are with their Regiments a<g ref="char:EOLhyphen"/>bout the Counties of <hi>Merch,</hi> and <hi>Teverdale,</hi> and hath given ſtrict command that no vio<g ref="char:EOLhyphen"/>lence or misbehaviour bee uſed againſt any Engliſhman, that doth happen within their quarters, upon what occaſion ſoever, as they will anſwer it at their perill.</p>
+            <pb facs="tcp:160498:4"/>
+            <p> We have lately received further intelli<g ref="char:EOLhyphen"/>gence, that another part of the Scottiſh Ar<g ref="char:EOLhyphen"/>my, are advancing up towards <hi>Edenburgh,</hi> un<g ref="char:EOLhyphen"/>der the command of Major Generall <hi>Mid<g ref="char:EOLhyphen"/>dleton,</hi> which army conſiſts of about ſeven thouſand, Horſe and Foot.</p>
+            <p>We do not hear any thing of their fur<g ref="char:EOLhyphen"/>ther approach, few dayes will diſſolve the miſtie Cloud, and bring thoſe things which are now hidden to their full ſplendor and brightneſſe, which is all, from</p>
+            <closer>
+               <signed>Your affectionate friend to ſerve you, W. Wheatly.</signed>
+               <dateline>Barwicke, <date>Septemb. 7. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of another Letter from the North.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon the cloſe of this Letter, we recei<g ref="char:EOLhyphen"/>ved further newes from the North, viz. That the Committee of Eſtates in Scotland, have choſe two Commiſſioners, the one to give a viſit to his Majeſty, the other to come to the Parliament; they bring with them the Treaty and the Covenant, and have re<g ref="char:EOLhyphen"/>ceived
+<pb facs="tcp:160498:4"/>inſtructions from the Committee of Eſtates how to treat thereon, with the Com<g ref="char:EOLhyphen"/>miſſioners of the Parliament of <hi>England.</hi>
+            </p>
+            <p>By an Expreſſe from <hi>Lancaſhire,</hi> and other parts adjacent, it was further intimated, <hi>viz.</hi> That the Gentry and Commonalty in thoſe parts, are reſolved to ſtand in a poſture of de<g ref="char:EOLhyphen"/>fence againſt the Scots Army, in caſe they ſhould advance over <hi>Tw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed;</hi> and to that end, doth keep conſtant watch in ſeverall places adjoyning upon the Counties of <hi>Tevidale, Annandale,</hi> and <hi>Duglaſdale:</hi> By the next you ſhall hear further, from</p>
+            <closer>
+               <signed>Yours to ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve you, <hi>W.W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>From Newcaſtle thus.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>REceiving your Letter concerning Mr <hi>Cheeſely</hi> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his free paſſage (before it came) was gra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n your expectation an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red, yet that a clear and right inter<g ref="char:EOLhyphen"/>pretation may bee had of the cauſe of ſtopping Mr. <hi>Chee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely,</hi> and all misinterprerations removed, I deſire to demonſtrate the grounds and reaſons of what I did, and give your Honors amp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and what further ſatisfacti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n I can in the t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, that no offence may be taken thereat, Firſt my in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elligence <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the South told me of dangerous riſings and tumu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the ci<g ref="char:EOLhyphen"/>ty of London againſt the Parliament occa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oned by t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſti<g ref="char:EOLhyphen"/>gation of ſome particular male-contented perſons, who en<g ref="char:EOLhyphen"/>deavoured to embroyle this Kingdom in a ſecond warre and was labouring to kindle a flint in your Nation, and had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent
+<pb facs="tcp:160498:5"/>ſome Agents thither to ſet the work on foot: (which ſeemed too probable by that which fell from the mouthes of many of your Clergy in their Pulpits about the ſame time) &amp; that the Speakers of the Parliament were (with moſt of the mem<g ref="char:EOLhyphen"/>bers driven from the Houſes, and glad to flye to the Army for ſafety.</p>
+            <p>And they with the Army marching towards the City with a reſolution to ſuppreſſe thoſe tumults: and Mr. <hi>Cheeſely</hi> co<g ref="char:EOLhyphen"/>ming in the mean time (before I had received any expreſſe from the Army how the ſtate of affaires ſtood, and before I knew that Mr. Speakers, and the reſt of the Members were ſafely returned to the Houſes) and ſhewing mee a paper without a ſeale, which he pretended to be the Speakers paſſe (which I knew not nor him neither) and not having the Ge<g ref="char:EOLhyphen"/>nerals paſſe, nor letting me ſee your Commiſſioners paſſe, (but only at laſt told me that he had it) but did not ſhew it me at all, I was doubtfull that hee might have beene a party ingaged in that dangerous combination againſt the Parl and Army, and going to do ſome ill offices in your Kingdome, &amp; therefore upon theſe grounds and ſome others, I thought it my duty (in diſcharging of the truſt repoſed in me) to deſire Mr <hi>Cheeſely</hi> to ſtay here till I ſent an expreſſe (which <hi>I</hi> did with all ſpeed) to Major Generall <hi>Lambert</hi> in Yorkſhire, up<g ref="char:EOLhyphen"/>on the return whereof Mr. <hi>Cheeſely</hi> had free paſſage, and was no longer ſtayed.</p>
+            <p>And therefore I hope no ſuch conſtruction will be put as that there was the leaſt intention in me (or any thing condu<g ref="char:EOLhyphen"/>cing to it) to violate the happy friendſhip and union betwixt the two Nations, which I with all cordialneſſe, and reality have endeavoured, and ſhall with all my power ſtudy to pre<g ref="char:EOLhyphen"/>ſerve,</p>
+            <trailer>For the Right Honourable the Eſtates of the Kingdome of <hi>Scotland.</hi>
+            </trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
